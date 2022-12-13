@@ -1,0 +1,36 @@
+[
+{
+    "externalLineId": "12a4786f-80a5-4f3b-b2e7-ddba1bfa7ffd",
+    "operation": "CREATE",
+    "planDigitalLineRequest": {
+      "distribution": "Evenly by Period",
+      "name": "Auto Created From Script 1",
+      "period": {
+        "startDate": "2023-01-01",
+        "endDate": "2023-01-31"
+      },
+      "planWorkspaceProduct": {
+        "planProductId": "6364266b5d9fc423f8133774",
+            "productId": "623383a04293570c6562647f",
+            "lineClassId": "5-bA41eBRj-EuTYRzg-cqA",
+            "lineClassAttributes": {
+                "canExport": true,
+                "canProduce": true,
+                "hasPerformance": true,
+                "canInvoice": true
+            },
+            "packageLineId": null,
+            "lineType": "STANDARD",
+            "packageType": null
+      },
+      "rates": {
+        "costMethodId": "0v2s85VAQ26PNifBbFyqCA",
+        "unitTypeId": "783r_cPNRWymzGk1TAA1cA",
+        "quantity": 1000000,
+        "sov": 100.0,
+        "productionBuffer": 10,
+        "netUnitCost": 20
+    	}
+  	}
+  }
+]

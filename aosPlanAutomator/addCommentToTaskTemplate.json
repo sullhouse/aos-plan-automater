@@ -1,0 +1,11 @@
+[
+    {
+        "note": "{{comment}}",
+        "noteType": "Generic Internal Note",
+        "entityType": "Workflow Task",
+        "entityId": "Task::{{taskId}}",
+        "entityName": "TaskList:Task:{{taskId}}",
+        "masterRecordId": "Task::{{taskId}}",
+        "reply": false
+    }
+]

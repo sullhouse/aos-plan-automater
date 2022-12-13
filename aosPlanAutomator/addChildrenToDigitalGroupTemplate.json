@@ -1,0 +1,8 @@
+[{
+    "externalLineId": "{{externalLineId}}",
+    "operation": "UPDATE",
+    "planDigitalLineRequest": {
+        "id": "{{groupLineId}}",
+        "childLines": {{childLines}}
+  	}
+}]

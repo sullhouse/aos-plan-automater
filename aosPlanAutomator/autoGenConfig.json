@@ -1,0 +1,13 @@
+{
+	"audienceSegmentTargetId": 20,
+	"newPackageId": "636a71934072b44445d33fc4",
+	"triggerExport": true,
+	"calculateInventory": true,
+	"submitToFinal": true,
+	"delayBeforeSubmitSeconds": 5,
+	"api_key": "613169f8-9634-41da-a007-13b6e45d99bb",
+	"env_url": "aos-stg-gw.operativeone.com",
+	"api_password": "xzt*ykq2BAM.hbg2uem",
+	"tenant_name": "digitalsandbox04",
+	"user_id": "external_system@digitalsandbox04.com"
+}

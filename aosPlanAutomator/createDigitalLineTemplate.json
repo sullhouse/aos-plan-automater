@@ -1,0 +1,29 @@
+{
+    "externalLineId": "{{externalLineId}}",
+    "operation": "CREATE",
+    "planDigitalLineRequest": {
+      "distribution": "Evenly by Period",
+      "name": "{{name}}",
+      "period": {
+        "startDate": "{{startDate}}",
+        "endDate": "{{endDate}}"
+      },
+      "planWorkspaceProduct": {
+            "productId": "{{productId}}",
+            "lineClassId": "5-bA41eBRj-EuTYRzg-cqA",
+            "lineClassAttributes": {
+                "canExport": true,
+                "canProduce": true,
+                "hasPerformance": true,
+                "canInvoice": true
+            },
+            "lineType": "STANDARD"
+      },
+      "rates": {
+        "costMethodId": "0v2s85VAQ26PNifBbFyqCA",
+        "unitTypeId": "783r_cPNRWymzGk1TAA1cA",
+        "quantity": {{quantity}},
+        "netUnitCost": {{netUnitCost}}
+    	}
+  	}
+ }

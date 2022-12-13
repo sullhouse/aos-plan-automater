@@ -1,0 +1,11 @@
+{
+    "externalLineId": "{{externalLineId}}",
+    "operation": "CREATE",
+    "planDigitalLineRequest": {
+        "name": "{{name}}",
+        "planWorkspaceProduct": {
+            "productId": "{{productId}}",
+            "lineType": "PACKAGE"
+        }
+  	}
+}

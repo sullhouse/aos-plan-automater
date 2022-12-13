@@ -1,0 +1,1259 @@
+[
+    {
+        "lastModifiedDate": "2022-08-02,08:24:06 PM",
+        "createdDate": "2022-08-02,08:24:06 PM",
+        "createdBy": "asullivan@digitalsandbox04.com",
+        "lastModifiedBy": "asullivan@digitalsandbox04.com",
+        "id": "62e987e654e6a94c49a84225",
+        "sequenceId": 1720,
+        "name": "DV360 Offsite Display - Standard Shopper",
+        "planId": "62e987e654e6a94c49a84219",
+        "version": 1,
+        "description": null,
+        "distribution": "Pro-rate by Day",
+        "thirdPartyBillableAdServerId": null,
+        "rates": {
+            "costMethodId": "0v2s85VAQ26PNifBbFyqCA",
+            "unitTypeId": "783r_cPNRWymzGk1TAA1cA",
+            "quantity": 6419364,
+            "sov": 100.0,
+            "productionQuantity": 6419364,
+            "productionBuffer": 0.0,
+            "netUnitCost": 11.0,
+            "netCost": 70613.004,
+            "grossCost": 70613.004,
+            "grossUnitCost": 11.0,
+            "totalDiscount": 0.0,
+            "grossDiscount": 0.0,
+            "ucbd": 11.0,
+            "ucbdwp": 11.0,
+            "lineValue": 70613.004,
+            "suggestedBuffer": 0.0,
+            "discounts": [
+                {
+                    "discountName": "Added Value",
+                    "discountValue": 0.0,
+                    "discountType": "Other",
+                    "sortOrder": 1,
+                    "gross": false
+                },
+                {
+                    "discountName": "Other Discouint",
+                    "discountValue": 0.0,
+                    "discountType": "Other",
+                    "sortOrder": 2,
+                    "gross": true
+                },
+                {
+                    "discountName": "Other Discouint",
+                    "discountValue": 0.0,
+                    "discountType": "Agency",
+                    "sortOrder": 3,
+                    "gross": false
+                }
+            ],
+            "rcPrices": {
+                "goalPrice": 12.3235294,
+                "floorPrice": 10.8235294,
+                "ratecardPrice": 13.8235294
+            },
+            "ucbdBelowGoalPrice": true,
+            "netUnitCostBelowGoalPrice": true,
+            "netUnitCostBelowFloorPrice": false
+        },
+        "period": {
+            "startDate": "2023-05-23",
+            "endDate": "2023-06-30",
+            "startTime": "00:00:00",
+            "endTime": "23:59:00",
+            "timeZone": null
+        },
+        "planWorkspaceProduct": {
+            "planProductId": "62e987e654e6a94c49a8421c",
+            "productId": "62e43361ebc78438957647a4",
+            "lineNo": "1",
+            "lineClassId": "5-bA41eBRj-EuTYRzg-cqA",
+            "commercialTypeId": null,
+            "ratecard": {
+                "ratecardId": "62e7f7f499b94c4903ecfcfe",
+                "asOfDate": null
+            },
+            "lineClassAttributes": {
+                "planAudience": 0,
+                "guaranteedAudience": 0,
+                "planRate": 1,
+                "guaranteedRate": 0,
+                "canExport": true,
+                "canProduce": true,
+                "hasPerformance": true,
+                "canInvoice": true
+            },
+            "packageLineId": null,
+            "lineType": "STANDARD",
+            "packageType": null
+        },
+        "customFieldValues": null,
+        "orderStatus": {
+            "salesLineStatus": "NEW",
+            "sentToOrder": null,
+            "pushState": null
+        },
+        "financeStatus": {
+            "financeLineStatus": "NEW"
+        },
+        "packageChilds": null,
+        "weightedAllocation": null
+    },
+    {
+        "lastModifiedDate": "2022-08-02,08:24:06 PM",
+        "createdDate": "2022-08-02,08:24:06 PM",
+        "createdBy": "asullivan@digitalsandbox04.com",
+        "lastModifiedBy": "asullivan@digitalsandbox04.com",
+        "id": "62e987e654e6a94c49a84226",
+        "sequenceId": 1721,
+        "name": "DV360 Offsite Display - Standard Shopper",
+        "planId": "62e987e654e6a94c49a84219",
+        "version": 1,
+        "description": null,
+        "distribution": "Pro-rate by Day",
+        "thirdPartyBillableAdServerId": null,
+        "rates": {
+            "costMethodId": "0v2s85VAQ26PNifBbFyqCA",
+            "unitTypeId": "783r_cPNRWymzGk1TAA1cA",
+            "quantity": 194727,
+            "sov": 100.0,
+            "productionQuantity": 194727,
+            "productionBuffer": 0.0,
+            "netUnitCost": 11.0,
+            "netCost": 2141.997,
+            "grossCost": 2141.997,
+            "grossUnitCost": 11.0,
+            "totalDiscount": 0.0,
+            "grossDiscount": 0.0,
+            "ucbd": 11.0,
+            "ucbdwp": 11.0,
+            "lineValue": 2141.997,
+            "suggestedBuffer": 0.0,
+            "discounts": [
+                {
+                    "discountName": "Added Value",
+                    "discountValue": 0.0,
+                    "discountType": "Other",
+                    "sortOrder": 1,
+                    "gross": false
+                },
+                {
+                    "discountName": "Other Discouint",
+                    "discountValue": 0.0,
+                    "discountType": "Other",
+                    "sortOrder": 2,
+                    "gross": true
+                },
+                {
+                    "discountName": "Other Discouint",
+                    "discountValue": 0.0,
+                    "discountType": "Agency",
+                    "sortOrder": 3,
+                    "gross": false
+                }
+            ],
+            "rcPrices": {
+                "goalPrice": 12.3235294,
+                "floorPrice": 10.8235294,
+                "ratecardPrice": 13.8235294
+            },
+            "ucbdBelowGoalPrice": true,
+            "netUnitCostBelowGoalPrice": true,
+            "netUnitCostBelowFloorPrice": false
+        },
+        "period": {
+            "startDate": "2023-05-23",
+            "endDate": "2023-06-30",
+            "startTime": "00:00:00",
+            "endTime": "23:59:00",
+            "timeZone": null
+        },
+        "planWorkspaceProduct": {
+            "planProductId": "62e987e654e6a94c49a8421c",
+            "productId": "62e43361ebc78438957647a4",
+            "lineNo": "10",
+            "lineClassId": "pi2khI4AS4OTWi8pSJnbRA",
+            "commercialTypeId": null,
+            "ratecard": {
+                "ratecardId": "62e7f7f499b94c4903ecfcfe",
+                "asOfDate": null
+            },
+            "lineClassAttributes": {
+                "planAudience": 0,
+                "guaranteedAudience": 0,
+                "planRate": 1,
+                "guaranteedRate": 0,
+                "canExport": true,
+                "canProduce": true,
+                "hasPerformance": true,
+                "canInvoice": true
+            },
+            "packageLineId": null,
+            "lineType": "STANDARD",
+            "packageType": null
+        },
+        "customFieldValues": null,
+        "orderStatus": {
+            "salesLineStatus": "NEW",
+            "sentToOrder": null,
+            "pushState": null
+        },
+        "financeStatus": {
+            "financeLineStatus": "NEW"
+        },
+        "packageChilds": null,
+        "weightedAllocation": null
+    },
+    {
+        "lastModifiedDate": "2022-08-02,08:24:06 PM",
+        "createdDate": "2022-08-02,08:24:06 PM",
+        "createdBy": "asullivan@digitalsandbox04.com",
+        "lastModifiedBy": "asullivan@digitalsandbox04.com",
+        "id": "62e987e654e6a94c49a84227",
+        "sequenceId": 1722,
+        "name": "DV360 Offsite Display - Standard Shopper",
+        "planId": "62e987e654e6a94c49a84219",
+        "version": 1,
+        "description": null,
+        "distribution": "Pro-rate by Day",
+        "thirdPartyBillableAdServerId": null,
+        "rates": {
+            "costMethodId": "0v2s85VAQ26PNifBbFyqCA",
+            "unitTypeId": "783r_cPNRWymzGk1TAA1cA",
+            "quantity": 7703364,
+            "sov": 100.0,
+            "productionQuantity": 7703364,
+            "productionBuffer": 0.0,
+            "netUnitCost": 11.0,
+            "netCost": 84737.004,
+            "grossCost": 84737.004,
+            "grossUnitCost": 11.0,
+            "totalDiscount": 0.0,
+            "grossDiscount": 0.0,
+            "ucbd": 11.0,
+            "ucbdwp": 11.0,
+            "lineValue": 84737.004,
+            "suggestedBuffer": 0.0,
+            "discounts": [
+                {
+                    "discountName": "Added Value",
+                    "discountValue": 0.0,
+                    "discountType": "Other",
+                    "sortOrder": 1,
+                    "gross": false
+                },
+                {
+                    "discountName": "Other Discouint",
+                    "discountValue": 0.0,
+                    "discountType": "Other",
+                    "sortOrder": 2,
+                    "gross": true
+                },
+                {
+                    "discountName": "Other Discouint",
+                    "discountValue": 0.0,
+                    "discountType": "Agency",
+                    "sortOrder": 3,
+                    "gross": false
+                }
+            ],
+            "rcPrices": {
+                "goalPrice": 12.3235294,
+                "floorPrice": 10.8235294,
+                "ratecardPrice": 13.8235294
+            },
+            "ucbdBelowGoalPrice": true,
+            "netUnitCostBelowGoalPrice": true,
+            "netUnitCostBelowFloorPrice": false
+        },
+        "period": {
+            "startDate": "2023-05-23",
+            "endDate": "2023-06-30",
+            "startTime": "00:00:00",
+            "endTime": "23:59:00",
+            "timeZone": null
+        },
+        "planWorkspaceProduct": {
+            "planProductId": "62e987e654e6a94c49a8421c",
+            "productId": "62e43361ebc78438957647a4",
+            "lineNo": "11",
+            "lineClassId": "5-bA41eBRj-EuTYRzg-cqA",
+            "commercialTypeId": null,
+            "ratecard": {
+                "ratecardId": "62e7f7f499b94c4903ecfcfe",
+                "asOfDate": null
+            },
+            "lineClassAttributes": {
+                "planAudience": 0,
+                "guaranteedAudience": 0,
+                "planRate": 1,
+                "guaranteedRate": 0,
+                "canExport": true,
+                "canProduce": true,
+                "hasPerformance": true,
+                "canInvoice": true
+            },
+            "packageLineId": null,
+            "lineType": "STANDARD",
+            "packageType": null
+        },
+        "customFieldValues": null,
+        "orderStatus": {
+            "salesLineStatus": "NEW",
+            "sentToOrder": null,
+            "pushState": null
+        },
+        "financeStatus": {
+            "financeLineStatus": "NEW"
+        },
+        "packageChilds": null,
+        "weightedAllocation": null
+    },
+    {
+        "lastModifiedDate": "2022-08-02,08:24:06 PM",
+        "createdDate": "2022-08-02,08:24:06 PM",
+        "createdBy": "asullivan@digitalsandbox04.com",
+        "lastModifiedBy": "asullivan@digitalsandbox04.com",
+        "id": "62e987e654e6a94c49a84228",
+        "sequenceId": 1723,
+        "name": "DV360 Offsite Display - Standard Shopper",
+        "planId": "62e987e654e6a94c49a84219",
+        "version": 1,
+        "description": null,
+        "distribution": "Pro-rate by Day",
+        "thirdPartyBillableAdServerId": null,
+        "rates": {
+            "costMethodId": "0v2s85VAQ26PNifBbFyqCA",
+            "unitTypeId": "783r_cPNRWymzGk1TAA1cA",
+            "quantity": 194727,
+            "sov": 100.0,
+            "productionQuantity": 194727,
+            "productionBuffer": 0.0,
+            "netUnitCost": 11.0,
+            "netCost": 2141.997,
+            "grossCost": 2141.997,
+            "grossUnitCost": 11.0,
+            "totalDiscount": 0.0,
+            "grossDiscount": 0.0,
+            "ucbd": 11.0,
+            "ucbdwp": 11.0,
+            "lineValue": 2141.997,
+            "suggestedBuffer": 0.0,
+            "discounts": [
+                {
+                    "discountName": "Added Value",
+                    "discountValue": 0.0,
+                    "discountType": "Other",
+                    "sortOrder": 1,
+                    "gross": false
+                },
+                {
+                    "discountName": "Other Discouint",
+                    "discountValue": 0.0,
+                    "discountType": "Other",
+                    "sortOrder": 2,
+                    "gross": true
+                },
+                {
+                    "discountName": "Other Discouint",
+                    "discountValue": 0.0,
+                    "discountType": "Agency",
+                    "sortOrder": 3,
+                    "gross": false
+                }
+            ],
+            "rcPrices": {
+                "goalPrice": 12.3235294,
+                "floorPrice": 10.8235294,
+                "ratecardPrice": 13.8235294
+            },
+            "ucbdBelowGoalPrice": true,
+            "netUnitCostBelowGoalPrice": true,
+            "netUnitCostBelowFloorPrice": false
+        },
+        "period": {
+            "startDate": "2023-05-23",
+            "endDate": "2023-06-30",
+            "startTime": "00:00:00",
+            "endTime": "23:59:00",
+            "timeZone": null
+        },
+        "planWorkspaceProduct": {
+            "planProductId": "62e987e654e6a94c49a8421c",
+            "productId": "62e43361ebc78438957647a4",
+            "lineNo": "12",
+            "lineClassId": "pi2khI4AS4OTWi8pSJnbRA",
+            "commercialTypeId": null,
+            "ratecard": {
+                "ratecardId": "62e7f7f499b94c4903ecfcfe",
+                "asOfDate": null
+            },
+            "lineClassAttributes": {
+                "planAudience": 0,
+                "guaranteedAudience": 0,
+                "planRate": 1,
+                "guaranteedRate": 0,
+                "canExport": true,
+                "canProduce": true,
+                "hasPerformance": true,
+                "canInvoice": true
+            },
+            "packageLineId": null,
+            "lineType": "STANDARD",
+            "packageType": null
+        },
+        "customFieldValues": null,
+        "orderStatus": {
+            "salesLineStatus": "NEW",
+            "sentToOrder": null,
+            "pushState": null
+        },
+        "financeStatus": {
+            "financeLineStatus": "NEW"
+        },
+        "packageChilds": null,
+        "weightedAllocation": null
+    },
+    {
+        "lastModifiedDate": "2022-08-02,08:24:06 PM",
+        "createdDate": "2022-08-02,08:24:06 PM",
+        "createdBy": "asullivan@digitalsandbox04.com",
+        "lastModifiedBy": "asullivan@digitalsandbox04.com",
+        "id": "62e987e654e6a94c49a84229",
+        "sequenceId": 1724,
+        "name": "FBIG - Premium Carousel & Product Ad - Standard Shopper",
+        "planId": "62e987e654e6a94c49a84219",
+        "version": 1,
+        "description": null,
+        "distribution": "Pro-rate by Day",
+        "thirdPartyBillableAdServerId": null,
+        "rates": {
+            "costMethodId": "0v2s85VAQ26PNifBbFyqCA",
+            "unitTypeId": "783r_cPNRWymzGk1TAA1cA",
+            "quantity": 2822636,
+            "sov": 100.0,
+            "productionQuantity": 2822636,
+            "productionBuffer": 0.0,
+            "netUnitCost": 11.0,
+            "netCost": 31048.996,
+            "grossCost": 31048.996,
+            "grossUnitCost": 11.0,
+            "totalDiscount": 0.0,
+            "grossDiscount": 0.0,
+            "ucbd": 11.0,
+            "ucbdwp": 11.0,
+            "lineValue": 31048.996,
+            "suggestedBuffer": 0.0,
+            "discounts": [
+                {
+                    "discountName": "Added Value",
+                    "discountValue": 0.0,
+                    "discountType": "Other",
+                    "sortOrder": 1,
+                    "gross": false
+                },
+                {
+                    "discountName": "Other Discouint",
+                    "discountValue": 0.0,
+                    "discountType": "Other",
+                    "sortOrder": 2,
+                    "gross": true
+                },
+                {
+                    "discountName": "Other Discouint",
+                    "discountValue": 0.0,
+                    "discountType": "Agency",
+                    "sortOrder": 3,
+                    "gross": false
+                }
+            ],
+            "rcPrices": {
+                "goalPrice": 10.6764706,
+                "floorPrice": 10.0,
+                "ratecardPrice": 11.3529412
+            },
+            "ucbdBelowGoalPrice": false,
+            "netUnitCostBelowGoalPrice": false,
+            "netUnitCostBelowFloorPrice": false
+        },
+        "period": {
+            "startDate": "2023-05-23",
+            "endDate": "2023-06-24",
+            "startTime": "00:00:00",
+            "endTime": "23:59:00",
+            "timeZone": "America/New_York"
+        },
+        "planWorkspaceProduct": {
+            "planProductId": "62e987e654e6a94c49a8421d",
+            "productId": "62e433b2ebc78438957647a5",
+            "lineNo": "13",
+            "lineClassId": "5-bA41eBRj-EuTYRzg-cqA",
+            "commercialTypeId": null,
+            "ratecard": {
+                "ratecardId": "62e7f7f499b94c4903ecfcfe",
+                "asOfDate": "2022-08-02,02:57:38 PM"
+            },
+            "lineClassAttributes": {
+                "planAudience": 0,
+                "guaranteedAudience": 0,
+                "planRate": 1,
+                "guaranteedRate": 0,
+                "canExport": true,
+                "canProduce": true,
+                "hasPerformance": true,
+                "canInvoice": true
+            },
+            "packageLineId": null,
+            "lineType": "STANDARD",
+            "packageType": null
+        },
+        "customFieldValues": null,
+        "orderStatus": {
+            "salesLineStatus": "NEW",
+            "sentToOrder": null,
+            "pushState": null
+        },
+        "financeStatus": {
+            "financeLineStatus": "NEW"
+        },
+        "packageChilds": null,
+        "weightedAllocation": null
+    },
+    {
+        "lastModifiedDate": "2022-08-02,08:24:06 PM",
+        "createdDate": "2022-08-02,08:24:06 PM",
+        "createdBy": "asullivan@digitalsandbox04.com",
+        "lastModifiedBy": "asullivan@digitalsandbox04.com",
+        "id": "62e987e654e6a94c49a8422a",
+        "sequenceId": 1725,
+        "name": "FBIG - Premium Carousel & Product Ad - Standard Shopper",
+        "planId": "62e987e654e6a94c49a84219",
+        "version": 1,
+        "description": null,
+        "distribution": "Pro-rate by Day",
+        "thirdPartyBillableAdServerId": null,
+        "rates": {
+            "costMethodId": "0v2s85VAQ26PNifBbFyqCA",
+            "unitTypeId": "783r_cPNRWymzGk1TAA1cA",
+            "quantity": 194727,
+            "sov": 100.0,
+            "productionQuantity": 194727,
+            "productionBuffer": 0.0,
+            "netUnitCost": 11.0,
+            "netCost": 2141.997,
+            "grossCost": 2141.997,
+            "grossUnitCost": 11.0,
+            "totalDiscount": 0.0,
+            "grossDiscount": 0.0,
+            "ucbd": 11.0,
+            "ucbdwp": 11.0,
+            "lineValue": 2141.997,
+            "suggestedBuffer": 0.0,
+            "discounts": [
+                {
+                    "discountName": "Added Value",
+                    "discountValue": 0.0,
+                    "discountType": "Other",
+                    "sortOrder": 1,
+                    "gross": false
+                },
+                {
+                    "discountName": "Other Discouint",
+                    "discountValue": 0.0,
+                    "discountType": "Other",
+                    "sortOrder": 2,
+                    "gross": true
+                },
+                {
+                    "discountName": "Other Discouint",
+                    "discountValue": 0.0,
+                    "discountType": "Agency",
+                    "sortOrder": 3,
+                    "gross": false
+                }
+            ],
+            "rcPrices": {
+                "goalPrice": 10.6764706,
+                "floorPrice": 10.0,
+                "ratecardPrice": 11.3529412
+            },
+            "ucbdBelowGoalPrice": false,
+            "netUnitCostBelowGoalPrice": false,
+            "netUnitCostBelowFloorPrice": false
+        },
+        "period": {
+            "startDate": "2023-05-23",
+            "endDate": "2023-06-24",
+            "startTime": "00:00:00",
+            "endTime": "23:59:00",
+            "timeZone": "America/New_York"
+        },
+        "planWorkspaceProduct": {
+            "planProductId": "62e987e654e6a94c49a8421d",
+            "productId": "62e433b2ebc78438957647a5",
+            "lineNo": "14",
+            "lineClassId": "pi2khI4AS4OTWi8pSJnbRA",
+            "commercialTypeId": null,
+            "ratecard": {
+                "ratecardId": "62e7f7f499b94c4903ecfcfe",
+                "asOfDate": "2022-08-02,02:57:38 PM"
+            },
+            "lineClassAttributes": {
+                "planAudience": 0,
+                "guaranteedAudience": 0,
+                "planRate": 1,
+                "guaranteedRate": 0,
+                "canExport": true,
+                "canProduce": true,
+                "hasPerformance": true,
+                "canInvoice": true
+            },
+            "packageLineId": null,
+            "lineType": "STANDARD",
+            "packageType": null
+        },
+        "customFieldValues": null,
+        "orderStatus": {
+            "salesLineStatus": "NEW",
+            "sentToOrder": null,
+            "pushState": null
+        },
+        "financeStatus": {
+            "financeLineStatus": "NEW"
+        },
+        "packageChilds": null,
+        "weightedAllocation": null
+    },
+    {
+        "lastModifiedDate": "2022-08-02,08:24:06 PM",
+        "createdDate": "2022-08-02,08:24:06 PM",
+        "createdBy": "asullivan@digitalsandbox04.com",
+        "lastModifiedBy": "asullivan@digitalsandbox04.com",
+        "id": "62e987e654e6a94c49a8422b",
+        "sequenceId": 1726,
+        "name": "FBIG - Premium Carousel & Product Ad - Standard Shopper",
+        "planId": "62e987e654e6a94c49a84219",
+        "version": 1,
+        "description": null,
+        "distribution": "Pro-rate by Day",
+        "thirdPartyBillableAdServerId": null,
+        "rates": {
+            "costMethodId": "0v2s85VAQ26PNifBbFyqCA",
+            "unitTypeId": "783r_cPNRWymzGk1TAA1cA",
+            "quantity": 1453818,
+            "sov": 100.0,
+            "productionQuantity": 1453818,
+            "productionBuffer": 0.0,
+            "netUnitCost": 11.0,
+            "netCost": 15991.998,
+            "grossCost": 15991.998,
+            "grossUnitCost": 11.0,
+            "totalDiscount": 0.0,
+            "grossDiscount": 0.0,
+            "ucbd": 11.0,
+            "ucbdwp": 11.0,
+            "lineValue": 15991.998,
+            "suggestedBuffer": 0.0,
+            "discounts": [
+                {
+                    "discountName": "Added Value",
+                    "discountValue": 0.0,
+                    "discountType": "Other",
+                    "sortOrder": 1,
+                    "gross": false
+                },
+                {
+                    "discountName": "Other Discouint",
+                    "discountValue": 0.0,
+                    "discountType": "Other",
+                    "sortOrder": 2,
+                    "gross": true
+                },
+                {
+                    "discountName": "Other Discouint",
+                    "discountValue": 0.0,
+                    "discountType": "Agency",
+                    "sortOrder": 3,
+                    "gross": false
+                }
+            ],
+            "rcPrices": {
+                "goalPrice": 10.6764706,
+                "floorPrice": 10.0,
+                "ratecardPrice": 11.3529412
+            },
+            "ucbdBelowGoalPrice": false,
+            "netUnitCostBelowGoalPrice": false,
+            "netUnitCostBelowFloorPrice": false
+        },
+        "period": {
+            "startDate": "2023-05-23",
+            "endDate": "2023-06-24",
+            "startTime": "00:00:00",
+            "endTime": "23:59:00",
+            "timeZone": "America/New_York"
+        },
+        "planWorkspaceProduct": {
+            "planProductId": "62e987e654e6a94c49a8421d",
+            "productId": "62e433b2ebc78438957647a5",
+            "lineNo": "15",
+            "lineClassId": "5-bA41eBRj-EuTYRzg-cqA",
+            "commercialTypeId": null,
+            "ratecard": {
+                "ratecardId": "62e7f7f499b94c4903ecfcfe",
+                "asOfDate": "2022-08-02,02:57:38 PM"
+            },
+            "lineClassAttributes": {
+                "planAudience": 0,
+                "guaranteedAudience": 0,
+                "planRate": 1,
+                "guaranteedRate": 0,
+                "canExport": true,
+                "canProduce": true,
+                "hasPerformance": true,
+                "canInvoice": true
+            },
+            "packageLineId": null,
+            "lineType": "STANDARD",
+            "packageType": null
+        },
+        "customFieldValues": null,
+        "orderStatus": {
+            "salesLineStatus": "NEW",
+            "sentToOrder": null,
+            "pushState": null
+        },
+        "financeStatus": {
+            "financeLineStatus": "NEW"
+        },
+        "packageChilds": null,
+        "weightedAllocation": null
+    },
+    {
+        "lastModifiedDate": "2022-08-02,08:24:06 PM",
+        "createdDate": "2022-08-02,08:24:06 PM",
+        "createdBy": "asullivan@digitalsandbox04.com",
+        "lastModifiedBy": "asullivan@digitalsandbox04.com",
+        "id": "62e987e654e6a94c49a8422c",
+        "sequenceId": 1727,
+        "name": "FBIG - Premium Carousel & Product Ad - Standard Shopper",
+        "planId": "62e987e654e6a94c49a84219",
+        "version": 1,
+        "description": null,
+        "distribution": "Pro-rate by Day",
+        "thirdPartyBillableAdServerId": null,
+        "rates": {
+            "costMethodId": "0v2s85VAQ26PNifBbFyqCA",
+            "unitTypeId": "783r_cPNRWymzGk1TAA1cA",
+            "quantity": 194727,
+            "sov": 100.0,
+            "productionQuantity": 194727,
+            "productionBuffer": 0.0,
+            "netUnitCost": 11.0,
+            "netCost": 2141.997,
+            "grossCost": 2141.997,
+            "grossUnitCost": 11.0,
+            "totalDiscount": 0.0,
+            "grossDiscount": 0.0,
+            "ucbd": 11.0,
+            "ucbdwp": 11.0,
+            "lineValue": 2141.997,
+            "suggestedBuffer": 0.0,
+            "discounts": [
+                {
+                    "discountName": "Added Value",
+                    "discountValue": 0.0,
+                    "discountType": "Other",
+                    "sortOrder": 1,
+                    "gross": false
+                },
+                {
+                    "discountName": "Other Discouint",
+                    "discountValue": 0.0,
+                    "discountType": "Other",
+                    "sortOrder": 2,
+                    "gross": true
+                },
+                {
+                    "discountName": "Other Discouint",
+                    "discountValue": 0.0,
+                    "discountType": "Agency",
+                    "sortOrder": 3,
+                    "gross": false
+                }
+            ],
+            "rcPrices": {
+                "goalPrice": 10.6764706,
+                "floorPrice": 10.0,
+                "ratecardPrice": 11.3529412
+            },
+            "ucbdBelowGoalPrice": false,
+            "netUnitCostBelowGoalPrice": false,
+            "netUnitCostBelowFloorPrice": false
+        },
+        "period": {
+            "startDate": "2023-05-23",
+            "endDate": "2023-06-24",
+            "startTime": "00:00:00",
+            "endTime": "23:59:00",
+            "timeZone": "America/New_York"
+        },
+        "planWorkspaceProduct": {
+            "planProductId": "62e987e654e6a94c49a8421d",
+            "productId": "62e433b2ebc78438957647a5",
+            "lineNo": "16",
+            "lineClassId": "pi2khI4AS4OTWi8pSJnbRA",
+            "commercialTypeId": null,
+            "ratecard": {
+                "ratecardId": "62e7f7f499b94c4903ecfcfe",
+                "asOfDate": "2022-08-02,02:57:38 PM"
+            },
+            "lineClassAttributes": {
+                "planAudience": 0,
+                "guaranteedAudience": 0,
+                "planRate": 1,
+                "guaranteedRate": 0,
+                "canExport": true,
+                "canProduce": true,
+                "hasPerformance": true,
+                "canInvoice": true
+            },
+            "packageLineId": null,
+            "lineType": "STANDARD",
+            "packageType": null
+        },
+        "customFieldValues": null,
+        "orderStatus": {
+            "salesLineStatus": "NEW",
+            "sentToOrder": null,
+            "pushState": null
+        },
+        "financeStatus": {
+            "financeLineStatus": "NEW"
+        },
+        "packageChilds": null,
+        "weightedAllocation": null
+    },
+    {
+        "lastModifiedDate": "2022-08-02,08:24:06 PM",
+        "createdDate": "2022-08-02,08:24:06 PM",
+        "createdBy": "asullivan@digitalsandbox04.com",
+        "lastModifiedBy": "asullivan@digitalsandbox04.com",
+        "id": "62e987e654e6a94c49a8422d",
+        "sequenceId": 1728,
+        "name": "Omnichannel Campaign - Creative Services",
+        "planId": "62e987e654e6a94c49a84219",
+        "version": 1,
+        "description": null,
+        "distribution": "Pro-rate by Day",
+        "thirdPartyBillableAdServerId": null,
+        "rates": {
+            "costMethodId": "xp2X3LbtQlar-ttaNvFU2g",
+            "unitTypeId": "mjyPAVyJTlCsWYdWgbQsCQ",
+            "quantity": 1,
+            "sov": 100.0,
+            "productionQuantity": 1,
+            "productionBuffer": 0.0,
+            "netUnitCost": 2700.0,
+            "netCost": 2700.0,
+            "grossCost": 2700.0,
+            "grossUnitCost": 2700.0,
+            "totalDiscount": 0.0,
+            "grossDiscount": 0.0,
+            "ucbd": 2700.0,
+            "ucbdwp": 2700.0,
+            "lineValue": 2700.0,
+            "suggestedBuffer": 0.0,
+            "discounts": [
+                {
+                    "discountName": "Added Value",
+                    "discountValue": 0.0,
+                    "discountType": "Other",
+                    "sortOrder": 1,
+                    "gross": false
+                },
+                {
+                    "discountName": "Other Discouint",
+                    "discountValue": 0.0,
+                    "discountType": "Other",
+                    "sortOrder": 2,
+                    "gross": true
+                },
+                {
+                    "discountName": "Other Discouint",
+                    "discountValue": 0.0,
+                    "discountType": "Agency",
+                    "sortOrder": 3,
+                    "gross": false
+                }
+            ],
+            "rcPrices": {
+                "goalPrice": 2700.0,
+                "floorPrice": 2500.0,
+                "ratecardPrice": 3000.0
+            },
+            "ucbdBelowGoalPrice": false,
+            "netUnitCostBelowGoalPrice": false,
+            "netUnitCostBelowFloorPrice": false
+        },
+        "period": {
+            "startDate": "2023-05-23",
+            "endDate": "2023-06-30",
+            "startTime": "00:00:00",
+            "endTime": "23:59:00",
+            "timeZone": "America/New_York"
+        },
+        "planWorkspaceProduct": {
+            "planProductId": "62e987e654e6a94c49a84222",
+            "productId": "62e8917eebc78438957647be",
+            "lineNo": "17",
+            "lineClassId": "5-bA41eBRj-EuTYRzg-cqA",
+            "commercialTypeId": null,
+            "ratecard": {
+                "ratecardId": "62e7f7f499b94c4903ecfcfe",
+                "asOfDate": "2022-08-02,03:02:24 PM"
+            },
+            "lineClassAttributes": {
+                "planAudience": 0,
+                "guaranteedAudience": 0,
+                "planRate": 1,
+                "guaranteedRate": 0,
+                "canExport": true,
+                "canProduce": true,
+                "hasPerformance": false,
+                "canInvoice": true
+            },
+            "packageLineId": null,
+            "lineType": "STANDARD",
+            "packageType": null
+        },
+        "customFieldValues": null,
+        "orderStatus": {
+            "salesLineStatus": "NEW",
+            "sentToOrder": null,
+            "pushState": null
+        },
+        "financeStatus": {
+            "financeLineStatus": "NEW"
+        },
+        "packageChilds": null,
+        "weightedAllocation": null
+    },
+    {
+        "lastModifiedDate": "2022-08-02,08:24:06 PM",
+        "createdDate": "2022-08-02,08:24:06 PM",
+        "createdBy": "asullivan@digitalsandbox04.com",
+        "lastModifiedBy": "asullivan@digitalsandbox04.com",
+        "id": "62e987e654e6a94c49a8422e",
+        "sequenceId": 1729,
+        "name": "Landing Page - Set Up - Brand Shop",
+        "planId": "62e987e654e6a94c49a84219",
+        "version": 1,
+        "description": null,
+        "distribution": "Pro-rate by Day",
+        "thirdPartyBillableAdServerId": null,
+        "rates": {
+            "costMethodId": "xp2X3LbtQlar-ttaNvFU2g",
+            "unitTypeId": "mjyPAVyJTlCsWYdWgbQsCQ",
+            "quantity": 1,
+            "sov": 100.0,
+            "productionQuantity": 1,
+            "productionBuffer": 0.0,
+            "netUnitCost": 0.0,
+            "netCost": 0.0,
+            "grossCost": 0.0,
+            "grossUnitCost": 0.0,
+            "totalDiscount": 0.0,
+            "grossDiscount": 0.0,
+            "ucbd": 0.0,
+            "ucbdwp": 0.0,
+            "lineValue": 0.0,
+            "suggestedBuffer": 0.0,
+            "discounts": [
+                {
+                    "discountName": "Added Value",
+                    "discountValue": 0.0,
+                    "discountType": "Other",
+                    "sortOrder": 1,
+                    "gross": false
+                },
+                {
+                    "discountName": "Other Discouint",
+                    "discountValue": 0.0,
+                    "discountType": "Other",
+                    "sortOrder": 2,
+                    "gross": true
+                },
+                {
+                    "discountName": "Other Discouint",
+                    "discountValue": 0.0,
+                    "discountType": "Agency",
+                    "sortOrder": 3,
+                    "gross": false
+                }
+            ],
+            "rcPrices": {
+                "goalPrice": 0.0,
+                "floorPrice": 0.0,
+                "ratecardPrice": 0.0
+            },
+            "ucbdBelowGoalPrice": false,
+            "netUnitCostBelowGoalPrice": false,
+            "netUnitCostBelowFloorPrice": false
+        },
+        "period": {
+            "startDate": "2023-05-23",
+            "endDate": "2023-05-23",
+            "startTime": "00:00:00",
+            "endTime": "23:59:00",
+            "timeZone": "America/New_York"
+        },
+        "planWorkspaceProduct": {
+            "planProductId": "62e987e654e6a94c49a84223",
+            "productId": "62e8923d2f465605813d04c1",
+            "lineNo": "18",
+            "lineClassId": "pi2khI4AS4OTWi8pSJnbRA",
+            "commercialTypeId": null,
+            "ratecard": null,
+            "lineClassAttributes": {
+                "planAudience": 0,
+                "guaranteedAudience": 0,
+                "planRate": 1,
+                "guaranteedRate": 0,
+                "canExport": true,
+                "canProduce": true,
+                "hasPerformance": false,
+                "canInvoice": true
+            },
+            "packageLineId": null,
+            "lineType": "STANDARD",
+            "packageType": null
+        },
+        "customFieldValues": null,
+        "orderStatus": {
+            "salesLineStatus": "NEW",
+            "sentToOrder": null,
+            "pushState": null
+        },
+        "financeStatus": {
+            "financeLineStatus": "NEW"
+        },
+        "packageChilds": null,
+        "weightedAllocation": null
+    },
+    {
+        "lastModifiedDate": "2022-08-02,08:24:06 PM",
+        "createdDate": "2022-08-02,08:24:06 PM",
+        "createdBy": "asullivan@digitalsandbox04.com",
+        "lastModifiedBy": "asullivan@digitalsandbox04.com",
+        "id": "62e987e654e6a94c49a8422f",
+        "sequenceId": 1730,
+        "name": "Landing Page - Monthly Hosting - Brand Shop",
+        "planId": "62e987e654e6a94c49a84219",
+        "version": 1,
+        "description": null,
+        "distribution": "Pro-rate by Day",
+        "thirdPartyBillableAdServerId": null,
+        "rates": {
+            "costMethodId": "D9BLp5_HSN2t1rUTmbaSSQ",
+            "unitTypeId": "ZCcNFn0BSgSbA9kI1RlXqQ",
+            "quantity": 32,
+            "sov": 100.0,
+            "productionQuantity": 32,
+            "productionBuffer": 0.0,
+            "netUnitCost": 0.0,
+            "netCost": 0.0,
+            "grossCost": 0.0,
+            "grossUnitCost": 0.0,
+            "totalDiscount": 0.0,
+            "grossDiscount": 0.0,
+            "ucbd": 0.0,
+            "ucbdwp": 0.0,
+            "lineValue": 0.0,
+            "suggestedBuffer": 0.0,
+            "discounts": [
+                {
+                    "discountName": "Added Value",
+                    "discountValue": 0.0,
+                    "discountType": "Other",
+                    "sortOrder": 1,
+                    "gross": false
+                },
+                {
+                    "discountName": "Other Discouint",
+                    "discountValue": 0.0,
+                    "discountType": "Other",
+                    "sortOrder": 2,
+                    "gross": true
+                },
+                {
+                    "discountName": "Other Discouint",
+                    "discountValue": 0.0,
+                    "discountType": "Agency",
+                    "sortOrder": 3,
+                    "gross": false
+                }
+            ],
+            "rcPrices": {
+                "goalPrice": 83.33,
+                "floorPrice": 75.0,
+                "ratecardPrice": 100.0
+            },
+            "ucbdBelowGoalPrice": true,
+            "netUnitCostBelowGoalPrice": true,
+            "netUnitCostBelowFloorPrice": true
+        },
+        "period": {
+            "startDate": "2023-05-23",
+            "endDate": "2023-06-23",
+            "startTime": "00:00:00",
+            "endTime": "23:59:00",
+            "timeZone": "America/New_York"
+        },
+        "planWorkspaceProduct": {
+            "planProductId": "62e987e654e6a94c49a84224",
+            "productId": "62e8926cebc78438957647bf",
+            "lineNo": "19",
+            "lineClassId": "pi2khI4AS4OTWi8pSJnbRA",
+            "commercialTypeId": null,
+            "ratecard": {
+                "ratecardId": "62e7f7f499b94c4903ecfcfe",
+                "asOfDate": "2022-08-02,03:04:52 PM"
+            },
+            "lineClassAttributes": {
+                "planAudience": 0,
+                "guaranteedAudience": 0,
+                "planRate": 1,
+                "guaranteedRate": 0,
+                "canExport": true,
+                "canProduce": true,
+                "hasPerformance": false,
+                "canInvoice": true
+            },
+            "packageLineId": null,
+            "lineType": "STANDARD",
+            "packageType": null
+        },
+        "customFieldValues": null,
+        "orderStatus": {
+            "salesLineStatus": "NEW",
+            "sentToOrder": null,
+            "pushState": null
+        },
+        "financeStatus": {
+            "financeLineStatus": "NEW"
+        },
+        "packageChilds": null,
+        "weightedAllocation": null
+    },
+    {
+        "lastModifiedDate": "2022-08-02,08:24:06 PM",
+        "createdDate": "2022-08-02,08:24:06 PM",
+        "createdBy": "asullivan@digitalsandbox04.com",
+        "lastModifiedBy": "asullivan@digitalsandbox04.com",
+        "id": "62e987e654e6a94c49a84230",
+        "sequenceId": 1731,
+        "name": "Landing Page - Monthly Hosting - Brand Shop",
+        "planId": "62e987e654e6a94c49a84219",
+        "version": 1,
+        "description": null,
+        "distribution": "Pro-rate by Day",
+        "thirdPartyBillableAdServerId": null,
+        "rates": {
+            "costMethodId": "D9BLp5_HSN2t1rUTmbaSSQ",
+            "unitTypeId": "ZCcNFn0BSgSbA9kI1RlXqQ",
+            "quantity": 7,
+            "sov": 100.0,
+            "productionQuantity": 7,
+            "productionBuffer": 0.0,
+            "netUnitCost": 83.33,
+            "netCost": 583.31,
+            "grossCost": 583.31,
+            "grossUnitCost": 83.33,
+            "totalDiscount": 0.0,
+            "grossDiscount": 0.0,
+            "ucbd": 83.33,
+            "ucbdwp": 83.33,
+            "lineValue": 583.31,
+            "suggestedBuffer": 0.0,
+            "discounts": [
+                {
+                    "discountName": "Added Value",
+                    "discountValue": 0.0,
+                    "discountType": "Other",
+                    "sortOrder": 1,
+                    "gross": false
+                },
+                {
+                    "discountName": "Other Discouint",
+                    "discountValue": 0.0,
+                    "discountType": "Other",
+                    "sortOrder": 2,
+                    "gross": true
+                },
+                {
+                    "discountName": "Other Discouint",
+                    "discountValue": 0.0,
+                    "discountType": "Agency",
+                    "sortOrder": 3,
+                    "gross": false
+                }
+            ],
+            "rcPrices": {
+                "goalPrice": 83.33,
+                "floorPrice": 75.0,
+                "ratecardPrice": 100.0
+            },
+            "ucbdBelowGoalPrice": false,
+            "netUnitCostBelowGoalPrice": false,
+            "netUnitCostBelowFloorPrice": false
+        },
+        "period": {
+            "startDate": "2023-06-24",
+            "endDate": "2023-06-30",
+            "startTime": "00:00:00",
+            "endTime": "23:59:00",
+            "timeZone": "America/New_York"
+        },
+        "planWorkspaceProduct": {
+            "planProductId": "62e987e654e6a94c49a84224",
+            "productId": "62e8926cebc78438957647bf",
+            "lineNo": "20",
+            "lineClassId": "5-bA41eBRj-EuTYRzg-cqA",
+            "commercialTypeId": null,
+            "ratecard": {
+                "ratecardId": "62e7f7f499b94c4903ecfcfe",
+                "asOfDate": "2022-08-02,03:04:52 PM"
+            },
+            "lineClassAttributes": {
+                "planAudience": 0,
+                "guaranteedAudience": 0,
+                "planRate": 1,
+                "guaranteedRate": 0,
+                "canExport": true,
+                "canProduce": true,
+                "hasPerformance": false,
+                "canInvoice": true
+            },
+            "packageLineId": null,
+            "lineType": "STANDARD",
+            "packageType": null
+        },
+        "customFieldValues": null,
+        "orderStatus": {
+            "salesLineStatus": "NEW",
+            "sentToOrder": null,
+            "pushState": null
+        },
+        "financeStatus": {
+            "financeLineStatus": "NEW"
+        },
+        "packageChilds": null,
+        "weightedAllocation": null
+    }
+]

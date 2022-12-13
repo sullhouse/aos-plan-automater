@@ -1,0 +1,878 @@
+[
+	{
+		"period": {
+			"endDate": "2023-06-30",
+			"timeZone": null,
+			"startTime": "00:00:00",
+			"endTime": "23:59:00",
+			"startDate": "2023-01-01"
+		},
+		"financeStatus": {
+			"financeLineStatus": "NEW"
+		},
+		"lastModifiedDate": "2022-10-19,04:07:33 PM",
+		"lastModifiedBy": "asullivan@digitalsandbox04.com",
+		"rates": {
+			"ucbdwp": 30.33,
+			"unitTypeId": "783r_cPNRWymzGk1TAA1cA",
+			"netUnitCostBelowFloorPrice": false,
+			"quantity": 3100000,
+			"netCost": 94012,
+			"suggestedBuffer": 0,
+			"costMethodId": "0v2s85VAQ26PNifBbFyqCA",
+			"grossCost": 94012,
+			"netUnitCostBelowGoalPrice": false,
+			"ucbd": 30.33,
+			"productionQuantity": 3100000,
+			"grossUnitCost": 30.33,
+			"netUnitCost": 30.33,
+			"rcPrices": {
+				"floorPrice": 0,
+				"goalPrice": 0,
+				"ratecardPrice": 0
+			},
+			"productionBuffer": 0,
+			"discounts": [
+				{
+					"discountName": "Customer Discount",
+					"gross": true,
+					"sortOrder": 1,
+					"discountType": "Other",
+					"discountValue": 0
+				},
+				{
+					"discountName": "Agency Discount",
+					"gross": false,
+					"sortOrder": 2,
+					"discountType": "Agency",
+					"discountValue": 0
+				}
+			],
+			"lineValue": 94012,
+			"totalDiscount": 0,
+			"sov": 100,
+			"ucbdBelowGoalPrice": false,
+			"grossDiscount": 0
+		},
+		"description": null,
+		"orderStatus": {
+			"pushState": null,
+			"sentToOrder": null,
+			"salesLineStatus": "SENT_TO_ORDERS"
+		},
+		"distribution": "Pro-rate by Day",
+		"sequenceId": 2847,
+		"version": 1,
+		"planWorkspaceProduct": {
+			"ratecard": null,
+			"lineNo": "1",
+			"productId": "634efe8a302e1a5a7a30bfbc",
+			"lineClassAttributes": {
+				"canExport": true,
+				"guaranteedAudience": 0,
+				"planRate": 1,
+				"canInvoice": false,
+				"guaranteedRate": 0,
+				"canProduce": false,
+				"planAudience": 0,
+				"hasPerformance": false
+			},
+			"lineType": "PACKAGE",
+			"packageLineId": null,
+			"planProductId": "635020259ce4403076f177e1",
+			"lineClassId": "5-bA41eBRj-EuTYRzg-cqA",
+			"commercialTypeId": null,
+			"packageType": "Bottom Up"
+		},
+		"createdDate": "2022-10-19,04:04:53 PM",
+		"customFieldValues": null,
+		"createdBy": "asullivan@digitalsandbox04.com",
+		"name": "Fitness Guru Display Bundle",
+		"planId": "635020259ce4403076f177d4",
+		"id": "635020259ce4403076f177e2",
+		"thirdPartyBillableAdServerId": null,
+		"weightedAllocation": null,
+		"packageChilds": null
+	},
+	{
+		"period": {
+			"endDate": "2023-06-30",
+			"timeZone": null,
+			"startTime": "00:00:00",
+			"endTime": "23:59:00",
+			"startDate": "2023-01-01"
+		},
+		"financeStatus": {
+			"financeLineStatus": "SENT_TO_FINANCE"
+		},
+		"lastModifiedDate": "2022-10-19,04:07:33 PM",
+		"lastModifiedBy": "asullivan@digitalsandbox04.com",
+		"rates": {
+			"ucbdwp": 46.56,
+			"unitTypeId": "783r_cPNRWymzGk1TAA1cA",
+			"netUnitCostBelowFloorPrice": false,
+			"quantity": 1000000,
+			"netCost": 46560,
+			"suggestedBuffer": 0,
+			"costMethodId": "0v2s85VAQ26PNifBbFyqCA",
+			"grossCost": 46560,
+			"netUnitCostBelowGoalPrice": false,
+			"ucbd": 46.56,
+			"productionQuantity": 1000000,
+			"grossUnitCost": 46.56,
+			"netUnitCost": 46.56,
+			"rcPrices": {
+				"floorPrice": 43.56,
+				"goalPrice": 46.56,
+				"ratecardPrice": 48.56
+			},
+			"productionBuffer": 0,
+			"discounts": [
+				{
+					"discountName": "Customer Discount",
+					"gross": true,
+					"sortOrder": 1,
+					"discountType": "Other",
+					"discountValue": 0
+				},
+				{
+					"discountName": "Agency Discount",
+					"gross": false,
+					"sortOrder": 2,
+					"discountType": "Agency",
+					"discountValue": 0
+				}
+			],
+			"lineValue": 46560,
+			"totalDiscount": 0,
+			"sov": 100,
+			"ucbdBelowGoalPrice": false,
+			"grossDiscount": 0
+		},
+		"description": null,
+		"orderStatus": {
+			"pushState": null,
+			"sentToOrder": null,
+			"salesLineStatus": "SENT_TO_ORDERS"
+		},
+		"distribution": "Pro-rate by Day",
+		"sequenceId": 2848,
+		"version": 1,
+		"planWorkspaceProduct": {
+			"ratecard": {
+				"ratecardId": "634f51aa70e3127a49244da0",
+				"asOfDate": null
+			},
+			"lineNo": "1.1",
+			"productId": "62263ecf69df880da88f504c",
+			"lineClassAttributes": {
+				"canExport": true,
+				"guaranteedAudience": 0,
+				"planRate": 1,
+				"canInvoice": true,
+				"guaranteedRate": 0,
+				"canProduce": true,
+				"planAudience": 0,
+				"hasPerformance": true
+			},
+			"lineType": "STANDARD",
+			"packageLineId": "635020259ce4403076f177e2",
+			"planProductId": "635020259ce4403076f177dd",
+			"lineClassId": "5-bA41eBRj-EuTYRzg-cqA",
+			"commercialTypeId": null,
+			"packageType": "Bottom Up"
+		},
+		"createdDate": "2022-10-19,04:04:53 PM",
+		"customFieldValues": null,
+		"createdBy": "asullivan@digitalsandbox04.com",
+		"name": "Fitness Guru Skin Roadblock",
+		"planId": "635020259ce4403076f177d4",
+		"id": "635020259ce4403076f177e3",
+		"thirdPartyBillableAdServerId": null,
+		"weightedAllocation": null,
+		"packageChilds": null
+	},
+	{
+		"period": {
+			"endDate": "2023-06-30",
+			"timeZone": null,
+			"startTime": "00:00:00",
+			"endTime": "23:59:00",
+			"startDate": "2023-01-01"
+		},
+		"financeStatus": {
+			"financeLineStatus": "MODIFIED"
+		},
+		"lastModifiedDate": "2022-10-19,04:15:31 PM",
+		"lastModifiedBy": "asullivan@digitalsandbox04.com",
+		"rates": {
+			"ucbdwp": 22.12,
+			"unitTypeId": "783r_cPNRWymzGk1TAA1cA",
+			"netUnitCostBelowFloorPrice": false,
+			"quantity": 100000,
+			"netCost": 2212,
+			"suggestedBuffer": 0,
+			"costMethodId": "0v2s85VAQ26PNifBbFyqCA",
+			"grossCost": 2212,
+			"netUnitCostBelowGoalPrice": false,
+			"ucbd": 22.12,
+			"productionQuantity": 100000,
+			"grossUnitCost": 22.12,
+			"netUnitCost": 22.12,
+			"rcPrices": {
+				"floorPrice": 19.12,
+				"goalPrice": 22.12,
+				"ratecardPrice": 24.12
+			},
+			"productionBuffer": 0,
+			"discounts": [
+				{
+					"discountName": "Customer Discount",
+					"gross": true,
+					"sortOrder": 1,
+					"discountType": "Other",
+					"discountValue": 0
+				},
+				{
+					"discountName": "Agency Discount",
+					"gross": false,
+					"sortOrder": 2,
+					"discountType": "Agency",
+					"discountValue": 0
+				}
+			],
+			"lineValue": 2212,
+			"totalDiscount": 0,
+			"sov": 100,
+			"ucbdBelowGoalPrice": false,
+			"grossDiscount": 0
+		},
+		"description": null,
+		"orderStatus": {
+			"pushState": null,
+			"sentToOrder": null,
+			"salesLineStatus": "MODIFIED"
+		},
+		"distribution": "Pro-rate by Day",
+		"sequenceId": 2849,
+		"version": 1,
+		"planWorkspaceProduct": {
+			"ratecard": {
+				"ratecardId": "634f51aa70e3127a49244da0",
+				"asOfDate": null
+			},
+			"lineNo": "1.2",
+			"productId": "62263ee44293570c656263b4",
+			"lineClassAttributes": {
+				"canExport": true,
+				"guaranteedAudience": 0,
+				"planRate": 1,
+				"canInvoice": true,
+				"guaranteedRate": 0,
+				"canProduce": true,
+				"planAudience": 0,
+				"hasPerformance": true
+			},
+			"lineType": "STANDARD",
+			"packageLineId": "635020259ce4403076f177e2",
+			"planProductId": "635020259ce4403076f177de",
+			"lineClassId": "5-bA41eBRj-EuTYRzg-cqA",
+			"commercialTypeId": null,
+			"packageType": "Bottom Up"
+		},
+		"createdDate": "2022-10-19,04:04:53 PM",
+		"customFieldValues": null,
+		"createdBy": "asullivan@digitalsandbox04.com",
+		"name": "Fitness Guru Medium Rectangle",
+		"planId": "635020259ce4403076f177d4",
+		"id": "635020259ce4403076f177e4",
+		"thirdPartyBillableAdServerId": null,
+		"weightedAllocation": null,
+		"packageChilds": null
+	},
+	{
+		"period": {
+			"endDate": "2023-06-30",
+			"timeZone": null,
+			"startTime": "00:00:00",
+			"endTime": "23:59:00",
+			"startDate": "2023-01-01"
+		},
+		"financeStatus": {
+			"financeLineStatus": "SENT_TO_FINANCE"
+		},
+		"lastModifiedDate": "2022-10-19,04:07:33 PM",
+		"lastModifiedBy": "asullivan@digitalsandbox04.com",
+		"rates": {
+			"ucbdwp": 21.12,
+			"unitTypeId": "783r_cPNRWymzGk1TAA1cA",
+			"netUnitCostBelowFloorPrice": false,
+			"quantity": 1000000,
+			"netCost": 21120,
+			"suggestedBuffer": 0,
+			"costMethodId": "0v2s85VAQ26PNifBbFyqCA",
+			"grossCost": 21120,
+			"netUnitCostBelowGoalPrice": false,
+			"ucbd": 21.12,
+			"productionQuantity": 1000000,
+			"grossUnitCost": 21.12,
+			"netUnitCost": 21.12,
+			"rcPrices": {
+				"floorPrice": 18.12,
+				"goalPrice": 21.12,
+				"ratecardPrice": 23.12
+			},
+			"productionBuffer": 0,
+			"discounts": [
+				{
+					"discountName": "Customer Discount",
+					"gross": true,
+					"sortOrder": 1,
+					"discountType": "Other",
+					"discountValue": 0
+				},
+				{
+					"discountName": "Agency Discount",
+					"gross": false,
+					"sortOrder": 2,
+					"discountType": "Agency",
+					"discountValue": 0
+				}
+			],
+			"lineValue": 21120,
+			"totalDiscount": 0,
+			"sov": 100,
+			"ucbdBelowGoalPrice": false,
+			"grossDiscount": 0
+		},
+		"description": null,
+		"orderStatus": {
+			"pushState": null,
+			"sentToOrder": null,
+			"salesLineStatus": "SENT_TO_ORDERS"
+		},
+		"distribution": "Pro-rate by Day",
+		"sequenceId": 2850,
+		"version": 1,
+		"planWorkspaceProduct": {
+			"ratecard": {
+				"ratecardId": "634f51aa70e3127a49244da0",
+				"asOfDate": null
+			},
+			"lineNo": "1.3",
+			"productId": "62263f054293570c656263b5",
+			"lineClassAttributes": {
+				"canExport": true,
+				"guaranteedAudience": 0,
+				"planRate": 1,
+				"canInvoice": true,
+				"guaranteedRate": 0,
+				"canProduce": true,
+				"planAudience": 0,
+				"hasPerformance": true
+			},
+			"lineType": "STANDARD",
+			"packageLineId": "635020259ce4403076f177e2",
+			"planProductId": "635020259ce4403076f177df",
+			"lineClassId": "5-bA41eBRj-EuTYRzg-cqA",
+			"commercialTypeId": null,
+			"packageType": "Bottom Up"
+		},
+		"createdDate": "2022-10-19,04:04:53 PM",
+		"customFieldValues": null,
+		"createdBy": "asullivan@digitalsandbox04.com",
+		"name": "Fitness Guru Skyscraper",
+		"planId": "635020259ce4403076f177d4",
+		"id": "635020259ce4403076f177e5",
+		"thirdPartyBillableAdServerId": null,
+		"weightedAllocation": null,
+		"packageChilds": null
+	},
+	{
+		"period": {
+			"endDate": "2023-06-30",
+			"timeZone": null,
+			"startTime": "00:00:00",
+			"endTime": "23:59:00",
+			"startDate": "2023-01-01"
+		},
+		"financeStatus": {
+			"financeLineStatus": "SENT_TO_FINANCE"
+		},
+		"lastModifiedDate": "2022-10-19,04:07:33 PM",
+		"lastModifiedBy": "asullivan@digitalsandbox04.com",
+		"rates": {
+			"ucbdwp": 24.12,
+			"unitTypeId": "783r_cPNRWymzGk1TAA1cA",
+			"netUnitCostBelowFloorPrice": false,
+			"quantity": 1000000,
+			"netCost": 24120,
+			"suggestedBuffer": 0,
+			"costMethodId": "0v2s85VAQ26PNifBbFyqCA",
+			"grossCost": 24120,
+			"netUnitCostBelowGoalPrice": false,
+			"ucbd": 24.12,
+			"productionQuantity": 1000000,
+			"grossUnitCost": 24.12,
+			"netUnitCost": 24.12,
+			"rcPrices": {
+				"floorPrice": 21.12,
+				"goalPrice": 24.12,
+				"ratecardPrice": 26.12
+			},
+			"productionBuffer": 0,
+			"discounts": [
+				{
+					"discountName": "Customer Discount",
+					"gross": true,
+					"sortOrder": 1,
+					"discountType": "Other",
+					"discountValue": 0
+				},
+				{
+					"discountName": "Agency Discount",
+					"gross": false,
+					"sortOrder": 2,
+					"discountType": "Agency",
+					"discountValue": 0
+				}
+			],
+			"lineValue": 24120,
+			"totalDiscount": 0,
+			"sov": 100,
+			"ucbdBelowGoalPrice": false,
+			"grossDiscount": 0
+		},
+		"description": null,
+		"orderStatus": {
+			"pushState": null,
+			"sentToOrder": null,
+			"salesLineStatus": "SENT_TO_ORDERS"
+		},
+		"distribution": "Pro-rate by Day",
+		"sequenceId": 2851,
+		"version": 1,
+		"planWorkspaceProduct": {
+			"ratecard": {
+				"ratecardId": "634f51aa70e3127a49244da0",
+				"asOfDate": null
+			},
+			"lineNo": "1.4",
+			"productId": "623383a04293570c6562647f",
+			"lineClassAttributes": {
+				"canExport": true,
+				"guaranteedAudience": 0,
+				"planRate": 1,
+				"canInvoice": true,
+				"guaranteedRate": 0,
+				"canProduce": true,
+				"planAudience": 0,
+				"hasPerformance": true
+			},
+			"lineType": "STANDARD",
+			"packageLineId": "635020259ce4403076f177e2",
+			"planProductId": "635020259ce4403076f177e0",
+			"lineClassId": "5-bA41eBRj-EuTYRzg-cqA",
+			"commercialTypeId": null,
+			"packageType": "Bottom Up"
+		},
+		"createdDate": "2022-10-19,04:04:53 PM",
+		"customFieldValues": null,
+		"createdBy": "asullivan@digitalsandbox04.com",
+		"name": "Fitness Guru Leaderboard",
+		"planId": "635020259ce4403076f177d4",
+		"id": "635020259ce4403076f177e6",
+		"thirdPartyBillableAdServerId": null,
+		"weightedAllocation": null,
+		"packageChilds": null
+	},
+	{
+		"period": {
+			"endDate": "2023-06-30",
+			"timeZone": null,
+			"startTime": "00:00:00",
+			"endTime": "23:59:00",
+			"startDate": "2023-01-01"
+		},
+		"financeStatus": {
+			"financeLineStatus": "NEW"
+		},
+		"lastModifiedDate": "2022-10-21,01:41:59 AM",
+		"lastModifiedBy": "external_system@digitalsandbox04.com",
+		"rates": {
+			"ucbdwp": 0,
+			"unitTypeId": null,
+			"netUnitCostBelowFloorPrice": false,
+			"quantity": 362,
+			"netCost": 53395,
+			"suggestedBuffer": 0,
+			"costMethodId": null,
+			"grossCost": 53395,
+			"netUnitCostBelowGoalPrice": false,
+			"ucbd": 0,
+			"productionQuantity": 362,
+			"grossUnitCost": 0,
+			"netUnitCost": 0,
+			"rcPrices": {
+				"floorPrice": 0,
+				"goalPrice": 0,
+				"ratecardPrice": 0
+			},
+			"productionBuffer": 0,
+			"discounts": [
+				{
+					"discountName": "Customer Discount",
+					"gross": true,
+					"sortOrder": 1,
+					"discountType": "Other",
+					"discountValue": 0
+				},
+				{
+					"discountName": "Agency Discount",
+					"gross": false,
+					"sortOrder": 2,
+					"discountType": "Agency",
+					"discountValue": 0
+				}
+			],
+			"lineValue": 53395,
+			"totalDiscount": 0,
+			"sov": 100,
+			"ucbdBelowGoalPrice": false,
+			"grossDiscount": 0
+		},
+		"description": null,
+		"orderStatus": {
+			"pushState": null,
+			"sentToOrder": null,
+			"salesLineStatus": "NEW"
+		},
+		"distribution": "Pro-rate by Day",
+		"sequenceId": 2925,
+		"version": 1,
+		"planWorkspaceProduct": {
+			"ratecard": null,
+			"lineNo": "2",
+			"productId": "634efdc9302e1a5a7a30bfbb",
+			"lineClassAttributes": {
+				"canExport": true,
+				"guaranteedAudience": 0,
+				"planRate": 1,
+				"canInvoice": true,
+				"guaranteedRate": 0,
+				"canProduce": false,
+				"planAudience": 0,
+				"hasPerformance": false
+			},
+			"lineType": "PACKAGE",
+			"packageLineId": null,
+			"planProductId": "6351f8e79ce4403076f18dc5",
+			"lineClassId": "5-bA41eBRj-EuTYRzg-cqA",
+			"commercialTypeId": null,
+			"packageType": "Bottom Up"
+		},
+		"createdDate": "2022-10-21,01:41:59 AM",
+		"customFieldValues": null,
+		"createdBy": "external_system@digitalsandbox04.com",
+		"name": "Fitness Guru Branded Site",
+		"planId": "635020259ce4403076f177d4",
+		"id": "6351f8e79ce4403076f18dc9",
+		"thirdPartyBillableAdServerId": null,
+		"weightedAllocation": null,
+		"packageChilds": null
+	},
+	{
+		"period": {
+			"endDate": "2023-06-30",
+			"timeZone": null,
+			"startTime": "00:00:00",
+			"endTime": "23:59:00",
+			"startDate": "2023-01-01"
+		},
+		"financeStatus": {
+			"financeLineStatus": "NEW"
+		},
+		"lastModifiedDate": "2022-10-21,01:41:59 AM",
+		"lastModifiedBy": "external_system@digitalsandbox04.com",
+		"rates": {
+			"ucbdwp": 45,
+			"unitTypeId": "ZCcNFn0BSgSbA9kI1RlXqQ",
+			"netUnitCostBelowFloorPrice": false,
+			"quantity": 181,
+			"netCost": 8145,
+			"suggestedBuffer": 0,
+			"costMethodId": "D9BLp5_HSN2t1rUTmbaSSQ",
+			"grossCost": 8145,
+			"netUnitCostBelowGoalPrice": false,
+			"ucbd": 45,
+			"productionQuantity": 181,
+			"grossUnitCost": 45,
+			"netUnitCost": 45,
+			"rcPrices": {
+				"floorPrice": 40,
+				"goalPrice": 45,
+				"ratecardPrice": 50
+			},
+			"productionBuffer": 0,
+			"discounts": [
+				{
+					"discountName": "Customer Discount",
+					"gross": true,
+					"sortOrder": 1,
+					"discountType": "Other",
+					"discountValue": 0
+				},
+				{
+					"discountName": "Agency Discount",
+					"gross": false,
+					"sortOrder": 2,
+					"discountType": "Agency",
+					"discountValue": 0
+				}
+			],
+			"lineValue": 8145,
+			"totalDiscount": 0,
+			"sov": 100,
+			"ucbdBelowGoalPrice": false,
+			"grossDiscount": 0
+		},
+		"description": null,
+		"orderStatus": {
+			"pushState": null,
+			"sentToOrder": null,
+			"salesLineStatus": "NEW"
+		},
+		"distribution": "Pro-rate by Day",
+		"sequenceId": 2926,
+		"version": 1,
+		"planWorkspaceProduct": {
+			"ratecard": {
+				"ratecardId": "634f51aa70e3127a49244da0",
+				"asOfDate": "2022-10-21,01:41:59 AM"
+			},
+			"lineNo": "2.1",
+			"productId": "634ef947302e1a5a7a30bfba",
+			"lineClassAttributes": {
+				"canExport": false,
+				"guaranteedAudience": 0,
+				"planRate": 1,
+				"canInvoice": false,
+				"guaranteedRate": 0,
+				"canProduce": true,
+				"planAudience": 0,
+				"hasPerformance": false
+			},
+			"lineType": "STANDARD",
+			"packageLineId": "6351f8e79ce4403076f18dc9",
+			"planProductId": "6351f8e79ce4403076f18dc8",
+			"lineClassId": "5-bA41eBRj-EuTYRzg-cqA",
+			"commercialTypeId": null,
+			"packageType": "Bottom Up"
+		},
+		"createdDate": "2022-10-21,01:41:59 AM",
+		"customFieldValues": null,
+		"createdBy": "external_system@digitalsandbox04.com",
+		"name": "Branded Site Hosting",
+		"planId": "635020259ce4403076f177d4",
+		"id": "6351f8e79ce4403076f18dca",
+		"thirdPartyBillableAdServerId": null,
+		"weightedAllocation": null,
+		"packageChilds": null
+	},
+	{
+		"period": {
+			"endDate": "2023-06-30",
+			"timeZone": null,
+			"startTime": "00:00:00",
+			"endTime": "23:59:00",
+			"startDate": "2023-01-01"
+		},
+		"financeStatus": {
+			"financeLineStatus": "NEW"
+		},
+		"lastModifiedDate": "2022-10-21,01:41:59 AM",
+		"lastModifiedBy": "external_system@digitalsandbox04.com",
+		"rates": {
+			"ucbdwp": 8000,
+			"unitTypeId": "mjyPAVyJTlCsWYdWgbQsCQ",
+			"netUnitCostBelowFloorPrice": false,
+			"quantity": 0,
+			"netCost": 0,
+			"suggestedBuffer": 0,
+			"costMethodId": "xp2X3LbtQlar-ttaNvFU2g",
+			"grossCost": 0,
+			"netUnitCostBelowGoalPrice": false,
+			"ucbd": 8000,
+			"productionQuantity": 0,
+			"grossUnitCost": 8000,
+			"netUnitCost": 8000,
+			"rcPrices": {
+				"floorPrice": 6000,
+				"goalPrice": 8000,
+				"ratecardPrice": 10000
+			},
+			"productionBuffer": 0,
+			"discounts": [
+				{
+					"discountName": "Customer Discount",
+					"gross": true,
+					"sortOrder": 1,
+					"discountType": "Other",
+					"discountValue": 0
+				},
+				{
+					"discountName": "Agency Discount",
+					"gross": false,
+					"sortOrder": 2,
+					"discountType": "Agency",
+					"discountValue": 0
+				}
+			],
+			"lineValue": 0,
+			"totalDiscount": 0,
+			"sov": 100,
+			"ucbdBelowGoalPrice": false,
+			"grossDiscount": 0
+		},
+		"description": null,
+		"orderStatus": {
+			"pushState": null,
+			"sentToOrder": null,
+			"salesLineStatus": "NEW"
+		},
+		"distribution": "Pro-rate by Day",
+		"sequenceId": 2927,
+		"version": 1,
+		"planWorkspaceProduct": {
+			"ratecard": {
+				"ratecardId": "634f51aa70e3127a49244da0",
+				"asOfDate": "2022-10-21,01:41:59 AM"
+			},
+			"lineNo": "2.2",
+			"productId": "634efa13a663fd0ef276e847",
+			"lineClassAttributes": {
+				"canExport": false,
+				"guaranteedAudience": 0,
+				"planRate": 1,
+				"canInvoice": false,
+				"guaranteedRate": 0,
+				"canProduce": true,
+				"planAudience": 0,
+				"hasPerformance": false
+			},
+			"lineType": "STANDARD",
+			"packageLineId": "6351f8e79ce4403076f18dc9",
+			"planProductId": "6351f8e79ce4403076f18dc6",
+			"lineClassId": "5-bA41eBRj-EuTYRzg-cqA",
+			"commercialTypeId": null,
+			"packageType": "Bottom Up"
+		},
+		"createdDate": "2022-10-21,01:41:59 AM",
+		"customFieldValues": null,
+		"createdBy": "external_system@digitalsandbox04.com",
+		"name": "Branded Site Setup",
+		"planId": "635020259ce4403076f177d4",
+		"id": "6351f8e79ce4403076f18dcb",
+		"thirdPartyBillableAdServerId": null,
+		"weightedAllocation": null,
+		"packageChilds": null
+	},
+	{
+		"period": {
+			"endDate": "2023-06-30",
+			"timeZone": null,
+			"startTime": "00:00:00",
+			"endTime": "23:59:00",
+			"startDate": "2023-01-01"
+		},
+		"financeStatus": {
+			"financeLineStatus": "NEW"
+		},
+		"lastModifiedDate": "2022-10-21,01:41:59 AM",
+		"lastModifiedBy": "external_system@digitalsandbox04.com",
+		"rates": {
+			"ucbdwp": 250,
+			"unitTypeId": "ZCcNFn0BSgSbA9kI1RlXqQ",
+			"netUnitCostBelowFloorPrice": false,
+			"quantity": 181,
+			"netCost": 45250,
+			"suggestedBuffer": 0,
+			"costMethodId": "D9BLp5_HSN2t1rUTmbaSSQ",
+			"grossCost": 45250,
+			"netUnitCostBelowGoalPrice": false,
+			"ucbd": 250,
+			"productionQuantity": 181,
+			"grossUnitCost": 250,
+			"netUnitCost": 250,
+			"rcPrices": {
+				"floorPrice": 150,
+				"goalPrice": 250,
+				"ratecardPrice": 300
+			},
+			"productionBuffer": 0,
+			"discounts": [
+				{
+					"discountName": "Customer Discount",
+					"gross": true,
+					"sortOrder": 1,
+					"discountType": "Other",
+					"discountValue": 0
+				},
+				{
+					"discountName": "Agency Discount",
+					"gross": false,
+					"sortOrder": 2,
+					"discountType": "Agency",
+					"discountValue": 0
+				}
+			],
+			"lineValue": 45250,
+			"totalDiscount": 0,
+			"sov": 100,
+			"ucbdBelowGoalPrice": false,
+			"grossDiscount": 0
+		},
+		"description": null,
+		"orderStatus": {
+			"pushState": null,
+			"sentToOrder": null,
+			"salesLineStatus": "NEW"
+		},
+		"distribution": "Pro-rate by Day",
+		"sequenceId": 2928,
+		"version": 1,
+		"planWorkspaceProduct": {
+			"ratecard": {
+				"ratecardId": "634f51aa70e3127a49244da0",
+				"asOfDate": "2022-10-21,01:41:59 AM"
+			},
+			"lineNo": "2.3",
+			"productId": "635007bfa663fd0ef276e850",
+			"lineClassAttributes": {
+				"canExport": false,
+				"guaranteedAudience": 0,
+				"planRate": 1,
+				"canInvoice": false,
+				"guaranteedRate": 0,
+				"canProduce": true,
+				"planAudience": 0,
+				"hasPerformance": true
+			},
+			"lineType": "STANDARD",
+			"packageLineId": "6351f8e79ce4403076f18dc9",
+			"planProductId": "6351f8e79ce4403076f18dc7",
+			"lineClassId": "5-bA41eBRj-EuTYRzg-cqA",
+			"commercialTypeId": null,
+			"packageType": "Bottom Up"
+		},
+		"createdDate": "2022-10-21,01:41:59 AM",
+		"customFieldValues": null,
+		"createdBy": "external_system@digitalsandbox04.com",
+		"name": "Fitness Guru Branded Site",
+		"planId": "635020259ce4403076f177d4",
+		"id": "6351f8e79ce4403076f18dcc",
+		"thirdPartyBillableAdServerId": null,
+		"weightedAllocation": null,
+		"packageChilds": null
+	}
+]

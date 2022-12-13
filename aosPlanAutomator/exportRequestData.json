@@ -1,0 +1,27 @@
+{
+    "sortOrder": -1,
+    "sortBy": "",
+    "offset": 0,
+    "limit": 1000,
+    "visibleColumns": {},
+    "fileName": "Digital Workspace",
+    "template": {
+        "templateID": "UNIFIEDPLANNER_DIGITALWORKSPACEMASTER_DIGITALWORKSPACEMASTER_DEFAULT_1641631259503",
+        "tenantID": "digitalsandbox04",
+        "serviceName": "unifiedplanner",
+        "templateName": "Digital-Workspace-Master",
+        "templateType": "XLSX",
+        "templateKey": "DIGITALWORKSPACEMASTER",
+        "modifiedBy": "supportops@digitalsandbox04.com",
+        "templateVersion": "v1",
+        "modifiedTime": "Thu Dec 02 15:37:41 UTC 2021",
+        "metadata": "{\"apinamespace\":\"DigitalWorkspace\",\"templateengine\":\"JETT\",\"isJRXMLParsing\":\"false\"}",
+        "uploadedKey": "digitalsandbox04/unifiedplanner/Digital-Workspace-Master.xlsx",
+        "presignedURL": null,
+        "templateFilter": [
+            "digitalworkspace"
+        ],
+        "outputFileName": null
+    },
+    "zoneId": "America/New_York"
+}
